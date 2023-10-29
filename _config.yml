@@ -1,6 +1,15 @@
 title: gimemor's Lab
 markdown: kramdown
-
+source: .
+lsi: false
+safe: true
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  
 # for atom feed
 author:
   name: gimemor
